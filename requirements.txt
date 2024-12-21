@@ -1,0 +1,12 @@
+streamlit
+pandas
+PyPDF2
+langchain
+langchain-community
+huggingface-hub
+faiss-cpu
+langchain-openai
+langchain-huggingface
+langchain-google-genai
+langchain-groq
+transformers
