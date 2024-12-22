@@ -13,7 +13,7 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-st.set_page_config(page_title="QA_Chatbot", page_icon="📝", layout="centered")
+st.set_page_config(page_title="QA_Chatbot", page_icon="🧠", layout="centered")
 
 # Helper Functions for File Reading
 def read_pdf(file):
