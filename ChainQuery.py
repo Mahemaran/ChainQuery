@@ -47,7 +47,7 @@ def load_files(uploaded_files, file_type, sheet_name=None):
     return combined_text
 
 # Streamlit UI
-st.title("📝 AI-Powered Question Answering System 🤖")
+st.title("📝 Retrieval Based Answering System 🤖")
 
 # File Upload Section
 uploaded_files = st.file_uploader("Upload Files (Text, PDF, CSV, Excel)", type=["txt", "pdf", "csv", "xlsx"],
